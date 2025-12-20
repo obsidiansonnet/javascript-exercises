@@ -12,6 +12,7 @@
 const firstName = "Carlos";
 const lastName = "Stevenson";
 const thisYear = 1965;
+const birthYear = 1947;
 
 
 
