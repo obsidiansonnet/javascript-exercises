@@ -13,6 +13,7 @@ const firstName = "Carlos";
 const lastName = "Stevenson";
 const thisYear = 1965;
 const birthYear = 1947;
+let greeting = "Hello! My name is " + firstName + " " + lastName + " and I am " + (thisYear - birthYear) + " years old."; 
 
 
 
